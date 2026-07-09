@@ -89,5 +89,21 @@ codealpha_hangmangame ├──
 codealpha_stock_portfolio_tracker └── 
 codealpha_task_automation_with_python
 
-▶️ How to Run 
-1.Clone the repository:
+▶️ How to Run
+
+1. Clone the repository
+https://github.com/aravindgandla2005-lgtm/codealpha_tasks.git
+
+ 2. Navigate to the project folder:
+cd codealpha_tasks
+
+ 3. Run the desired project
+python filename.py
+
+🎯 Internship Program
+
+These projects were completed as part of the CodeAlpha Internship, providing practical experience in software development and real-world project implementation.
+
+👨‍💻 Author
+
+Aravind Gandla
