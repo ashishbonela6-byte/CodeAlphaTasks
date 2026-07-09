@@ -95,9 +95,11 @@ codealpha_task_automation_with_python
 https://github.com/aravindgandla2005-lgtm/codealpha_tasks.git
 
  2. Navigate to the project folder:
+    
 cd codealpha_tasks
 
- 3. Run the desired project
+ 4. Run the desired project:
+    
 python filename.py
 
 🎯 Internship Program
@@ -107,3 +109,6 @@ These projects were completed as part of the CodeAlpha Internship, providing pra
 👨‍💻 Author
 
 Aravind Gandla
+
+•Github:
+https://github.com/ashishbonela6-byte/CodeAlphaTasks.git
