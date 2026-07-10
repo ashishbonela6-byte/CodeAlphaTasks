@@ -92,9 +92,9 @@ codealpha_task_automation_with_python
 ▶️ How to Run
 
 1. Clone the repository
-https://github.com/aravindgandla2005-lgtm/codealpha_tasks.git
+   https://github.com/ashishbonela6-byte/CodeAlphaTasks.git
 
- 2. Navigate to the project folder:
+ 3. Navigate to the project folder:
     
 cd codealpha_tasks
 
@@ -108,7 +108,7 @@ These projects were completed as part of the CodeAlpha Internship, providing pra
 
 👨‍💻 Author
 
-Aravind Gandla
+Bonela Ashish
 
 •Github:
 https://github.com/ashishbonela6-byte/CodeAlphaTasks.git
